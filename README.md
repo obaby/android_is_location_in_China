@@ -10,7 +10,11 @@
     缺点：边界误差较大 
 
 原理图
+
+
 ![image](https://github.com/zcsoft/ZCChinaLocation/raw/master/Image/area.png)
+
+
 iOS上除了这个办法，还有个更为精确的办法，但是相对来说速度要差一些，可以参考这个链接CLGeocoder
 
 基本原理：
